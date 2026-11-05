@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-economy-flutter",
+  "capabilityKey": "liberusoftware/module-browser-game-economy",
+  "presentation": "mobile-flutter",
+  "package": "module_browser_game_economy_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/browser-game/nextjs/economy.md",
+  "presentationPlan": "projects/browser-game/flutter/economy.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
